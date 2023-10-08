@@ -1,7 +1,5 @@
-# 656-PA1
+**Client-Server Socket Communication**
 
-**Client-Server Socket Communication
-**
 **Description**
 
 This is a simple implementation of a client-server communication system using Python sockets. The project consists of a server that accepts connections from clients, processes incoming data, and responds with a calculated result.
