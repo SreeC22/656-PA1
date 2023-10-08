@@ -18,6 +18,8 @@ Run the server script (server.py) on the machine where you want to host the serv
 The server will listen for incoming connections on the specified IP address and port.
 It will accept client connections, receive data, calculate the sum, and send a response back to the client.
 If the server receives an out-of-range integer, it will terminate the connection.
+
+
 **Client**:
 Run the client script (client.py) on a machine that can connect to the server.
 Enter an integer between 1 and 100 when prompted.
